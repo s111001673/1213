@@ -1,0 +1,27 @@
+
+<!doctype html>
+<html>
+<head>
+   <meta charset="utf-8">
+   <title>A888168ch3_allinone.html</title>
+</head>
+<body>
+
+<p>進入系統首先需輸入<kbd>deepstone</kbd>再按Enter鍵</p>
+<p>在這個的應用中，變數<var>data</var>需輸入當天交易量</p>
+<p>視窗會顯示<samp>資料輸入成功</samp></p>
+
+<hr>
+<p>CSS主要精神是使用<code>style</code>執行設計與排版</p>
+<pre><code>
+   p {
+      color:blue;
+   }
+</code></pre>
+<hr>
+<p>The
+<abbr title="Silicon Stone Education">SSE</abbr>
+was founded in 2014.
+</p>
+</body>
+</html>
